@@ -28,7 +28,7 @@ npm start
 ```
 
 ## Here is a Demo 
-<video controls src="HangmanDemo.mp4" title="Title"></video>
+https://github.com/deetheking03/Hangman/blob/main/HangmanDemo.mp4
 
 ## How to Play Hangman
 1. You will see a hidden word represented by underscores (`_ _ _ _`).
