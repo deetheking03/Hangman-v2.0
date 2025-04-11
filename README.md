@@ -72,4 +72,4 @@ Response should look something like this:
 {"wins":3,"total":3,"percentage":100}
 ```
 ## Hangmanv2.0 Demo 
-https://github.com/deetheking03/Hangman/blob/main/HangmanDemo.mp4
+https://github.com/deetheking03/Hangman-v2.0/blob/main/Hangmandemov2.0.mp4
